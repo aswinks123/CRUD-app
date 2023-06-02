@@ -12,6 +12,9 @@ Steps to Run the webapp
 
 Note : If the docker is unable to find the crud image. (use this image instead : 1365890/crud-app)
 
+Docker imahge for credapp is available at: 1365890/crud-app
+Run : docker pull 1365890/crud-app to pull the image
+
 
 Sample Images
 ![cred-1](https://github.com/aswinks123/CRUD-app/assets/108337342/137f04a0-dd1f-47b1-b48b-3cb85dcbc7b7)
